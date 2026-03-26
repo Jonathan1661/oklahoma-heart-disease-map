@@ -22,6 +22,22 @@ This project maps age-adjusted heart disease prevalence across Oklahoma counties
 4. Mapped county-level heart disease prevalence using a choropleth
 5. Repeated the process for obesity prevalence for comparison
 
+## Visualizations
+
+### Heart Disease Map (Oklahoma)
+
+![Heart Disease Map](assets/heart_disease_map.jpg)
+
+*Figure: Age-adjusted heart disease prevalence by county in Oklahoma*
+
+---
+
+### Obesity Map (Oklahoma)
+
+![Obesity Map](assets/obesity_map.jpg)
+
+*Figure: Age-adjusted obesity prevalence by county in Oklahoma*
+
 ## Key Findings
 - Heart disease prevalence is highest in southeastern Oklahoma counties
 - The pattern suggests regional disparities in cardiovascular risk
